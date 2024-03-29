@@ -7096,5 +7096,5 @@ local BackgroundDropdown = Tabs.Setting
 BackgroundDropdown:OnChanged(function(Value)
     -- Implement logic to change the background based on the selected option
     print("Selected background:", Value)
-    -- Example: ChangeBackground(Value)
+    -- Example: ChangeBackground(https://i.stack.imgur.com/Fwwkr.jpg)
 end)
